@@ -11,6 +11,7 @@ const App = () => {
         <h2>BSc. Computing Science - Software Systems</h2>
         <h1>News:</h1>
         <h2>In progress...</h2>
+        <h2>Changes I've made</h2>
       </div>
   );
 };
